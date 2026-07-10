@@ -25,7 +25,7 @@ This project focuses on the fundamentals of data management using Python's built
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/todo-list-python.git
+   git clone https://github.com/hinaramzan315/todo-list-python.git
    ```
 2. Navigate to the project folder
    ```bash
